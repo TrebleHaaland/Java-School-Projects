@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"SemesterTwoAss02","l":"AlarmClock"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"SemesterTwoAss02","l":"Clock"},{"p":"SemesterTwoAss02","l":"ClockDemo"},{"p":"SemesterTwoAss02","l":"WorldClock"},{"p":"SemesterTwoAss02","l":"WorldClockDemo"}];updateSearchResults();
