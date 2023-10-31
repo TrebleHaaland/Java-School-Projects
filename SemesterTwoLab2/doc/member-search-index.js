@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"SemesterTwoLab2","c":"CovidStatistics","l":"CovidStatistics()","u":"%3Cinit%3E()"},{"p":"SemesterTwoLab2","c":"CovidStatistics","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
